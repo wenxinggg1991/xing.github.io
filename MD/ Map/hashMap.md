@@ -28,6 +28,4 @@
    index  = (n - 1) & hash
    ````   
    通过hashCode()的高16位异或低16位实现,具体这样实现的好处是啥呢：
-    
-       ![图片丢失](https://github.com/wenxinggg1991/xing.github.io/blob/master/images/WechatIMG57.png) 
-     
+  
